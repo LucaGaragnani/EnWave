@@ -1,0 +1,2 @@
+function,type,rotor_type,rated_voltage,failure_mechanism_id,diagnostic_test_id,value
+Generator,Synchronuous,Salient Poles,11,,,

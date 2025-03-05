@@ -1,0 +1,4 @@
+function,type,rotor_type,cooling,wind_coil_type,impregnation_type,Component,Subcomponent,weights
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,1,"1,2,3","3,6,1"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,2,"4,5,6,7,11,12","1,2,2,2,2,1"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,3,"8,9,10","8,1,1"

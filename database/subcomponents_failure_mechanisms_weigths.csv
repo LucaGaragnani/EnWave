@@ -1,0 +1,13 @@
+function,type,rotor_type,cooling,wind_coil_type,impregnation_type,Subcomponent,failure_mechanisms_id,weights
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,1,,
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,2,"2,8,11,12,13,15,16","1,2,2,1,2,1,1"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,3,12,10
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,4,5,10
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,5,"3,4,7","2,6,2"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,6,"3,4,7","2,6,2"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,7,1,10
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,8,9,10
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,9,12,10
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,10,"6,14","8,2"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,11,"8,11,12,16","3,3,2,2"
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,12,,

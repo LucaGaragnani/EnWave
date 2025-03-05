@@ -1,0 +1,17 @@
+Failure Mechanism Cause,Failure Mechanism ID,Local Effect,Subcomponent Affected,Subcomponent_id,Diagnostic test,Weight
+Rotor Pole Damage,1,"Imbalance, increased vibration",Rotor poles,7,"6,13","7,3"
+Stator Winding Insulation deterioration,2,"Electrical breakdown, overheating","Stator windings, insulation",2,"1,2,4,5,11","3,1,4,2,2"
+Bearing Failure,3,"Increased vibration, noise",Bearings,"5,6","6,13","4,6"
+Brush Wear,4,"Sparking, poor commutation","Brushes, commutator","5,6",6,10
+Rotor Shaft Misalignment,5,"Increased vibration, bearing wear","Rotor shaft, bearings",4,"6,13","4,6"
+Cooling System Failure,6,"Overheating, reduced cooling efficiency","Cooling fans, heat exchangers",10,6,10
+Oil Contamination,7,Deterioration of lubricating properties,"Bearings, gears","2,11","6,13","4,6"
+Overload winding,8,"Overheating, insulation breakdown","Windings, insulation","2,11","1,2,4,5,6,11","2,1,4,2,1,2"
+Grounding Issues,9,Potential for electrical shocks,Enclosure,8,6,10
+Commutator Issues,10,"Poor contact, sparking","Commutator segments, brushes",13,6,10
+Thermal Cycling Fatigue,11,"Thermal stresses, material fatigue","Windings, insulation","2,11","1,2,4,5,11","3,1,4,2,2"
+Erosion and Corrosion,12,"Surface degradation, reduced lifespan","Metal surfaces, insulation coatings","2,3,7,8,9,11,13","1,2,4,5,6,11","1,1,2,3,3,3"
+Resonance and Vibration,13,"Structural damage, increased wear","Structural components, bearings",2,"6,9,12","4,6,6"
+Environmental Factors (Temperature),14,"Thermal stress, material degradation","Insulation, cooling system",10,6,10
+Phase Imbalance,15,"Overheating, electrical stress","Windings, insulation",2,"1,2,4,6","1,1,5,3"
+Winding Contamination,16,"Decrease insulation resistance, reduce cooling","Stator, rotor windings","2,11","1,2,4,5,6,11","1,1,2,3,3,3"

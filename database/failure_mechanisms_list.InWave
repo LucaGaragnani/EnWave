@@ -1,0 +1,18 @@
+Failure Mechanism Cause,Local Effect,Subcomponent Affected,Subcomponent_id
+Rotor Pole Damage,"Imbalance, increased vibration",Rotor poles,7
+Stator Winding Insulation deterioration,"Electrical breakdown, overheating","Stator windings, insulation",2
+Bearing Failure,"Increased vibration, noise",Bearings,"5, 6"
+Brush Wear,"Sparking, poor commutation","Brushes, commutator","5,6"
+Rotor Shaft Misalignment,"Increased vibration, bearing wear","Rotor shaft, bearings",4
+Cooling System Failure,"Overheating, reduced cooling efficiency","Cooling fans, heat exchangers",10
+Excessive Moisture,"Corrosion, electrical arcing","Electrical connections, windings","2, 11"
+Oil Contamination,Deterioration of lubricating properties,"Bearings, gears","2, 11"
+Loss of Excitation,"Reduced output voltage, instability","Excitation system, rotor windings","11, 13"
+Overload winding,"Overheating, insulation breakdown","Windings, insulation","2, 11"
+Grounding Issues,Potential for electrical shocks,"Stator, rotor",8
+Commutator Issues,"Poor contact, sparking","Commutator segments, brushes",13
+Thermal Cycling Fatigue,"Thermal stresses, material fatigue","Windings, insulation","2, 11"
+Erosion and Corrosion,"Surface degradation, reduced lifespan","Metal surfaces, insulation coatings","2, 3, 7, 8, 9. 11, 13"
+Resonance and Vibration,"Structural damage, increased wear","Structural components, bearings","2, 11"
+Environmental Factors (Temperature),"Thermal stress, material degradation","Insulation, cooling system",10
+Phase Imbalance,"Overheating, electrical stress","Windings, insulation",2

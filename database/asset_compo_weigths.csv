@@ -1,0 +1,2 @@
+function,type,rotor_type,cooling,wind_coil_type,impregnation_type,weight_stator,weight_rotor,weight_aux
+Generator,Synchronuous,Salient Poles,Air,Single turn,Vacuum impregnated,6,3,1
