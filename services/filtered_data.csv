@@ -1,0 +1,6 @@
+Timestamp,Topic,Value Numeric,Value String
+2025-02-12 21:46:02,tiscada/data/acquisition/PTTGC6/SS_02/GEN_1/PDSCOPE 1/Channel1/Ch1/Subsession 0/Area Entire/Statistical Parameters/N,15000.0,15000
+2025-02-12 21:46:02,tiscada/data/acquisition/PTTGC6/SS_02/GEN_1/PDSCOPE 1/Channel1/Ch1/Subsession 0/Area Entire/Statistical Parameters/Nw,16.073010102339854,16.0730101023399
+2025-02-12 21:46:02,tiscada/data/acquisition/PTTGC6/SS_02/GEN_1/PDSCOPE 1/Channel1/Ch1/Subsession 0/Area Entire/Statistical Parameters/N\s,804.0169769087623,804.016976908762
+2025-02-12 21:46:03,tiscada/data/acquisition/PTTGC6/SS_02/GEN_5/PDSCOPE 5/Channel1/Ch1/Subsession 0/Area Entire/Statistical Parameters/QMax95,0.002656249940628186,0.00265624994062819
+2025-02-12 21:46:03,tiscada/data/acquisition/PTTGC6/SS_02/GEN_5/PDSCOPE 5/Channel2/Ch2/Subsession 0/Area Entire/Statistical Parameters/QMax95,0.0065624998533166945,0.00656249985331669

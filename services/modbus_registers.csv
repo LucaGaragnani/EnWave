@@ -1,0 +1,23 @@
+Register Name,Value
+asset_id,1
+year_of_manufacture,2020
+year_of_installation,2021
+tag,Unit 1
+function,Generator
+manufacturer,Brush
+rated_voltage_kV,11.0
+rated_power_MVA,40
+frequency,50
+rated_speed,1500
+cooling,Air
+machine_type,Synchronuo
+rotor_type,Salient Po
+stator_winding_insulation_thermal_class,Class F
+stator_winding_type,Single tur
+stator_winding_impregnation,Vacuum imp
+number_of_stator_slot,38
+rotor_winding_insulation_thermal_class,Class F
+rotor_winding_number_of_poles,4
+feature_13,NA
+latitude,15.80777359008789
+longitude,100.953857421875
